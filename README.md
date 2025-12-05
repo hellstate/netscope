@@ -5,10 +5,14 @@ How to run:
 Download or clone the repository.
 Open a terminal in the project folder.
 Make the executable file runnable (if needed):
-```chmod +x NetScope```
+```bash
+chmod +x NetScope
+```
 
 Run the program:
-```./NetScope```
+```bash
+./NetScope
+```
 
 Viewing the application icon:
 The program sets a window icon when running.
