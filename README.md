@@ -13,7 +13,8 @@ Run the program:
 Viewing the application icon:
 The program sets a window icon when running.
 To see an icon in the file manager or desktop, create a ``.desktop`` file:
-```[Desktop Entry]
+```bash
+[Desktop Entry]
 Name=NetScope
 Comment=Network Information Tool
 Exec=/full/path/to/NetScope
@@ -24,6 +25,8 @@ Categories=Utility;
 ```
 
 Make it executable:
-```chmod +x NetScope.desktop```
+```bash
+chmod +x NetScope.desktop
+```
 
 Now the program will show the icon when launched from the file manager or menu.
