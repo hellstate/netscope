@@ -20,7 +20,8 @@ Exec=/full/path/to/NetScope
 Icon=/full/path/to/images/icon.png
 Terminal=false
 Type=Application
-Categories=Utility;```
+Categories=Utility;
+```
 
 Make it executable:
 ```chmod +x NetScope.desktop```
